@@ -1,0 +1,30 @@
+td, th {
+    border: 1px solid #ddadad;
+    text-align: left;
+    padding: 8px;
+    text-align: center;
+  }
+ 
+  h1{
+    text-align: center;
+    color: blue;
+  }
+  table{
+
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+    
+  }
+  header{
+    background-color: rgb(105, 221, 241);
+    text-align: center;
+  }
+ 
+  footer{
+    display: block;
+    margin: auto;
+    text-align: center;
+
+  }
